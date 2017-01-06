@@ -1,4 +1,4 @@
 # random_quote_machine
-see work https://codepen.io/upanan82/full/amYOZw/
+see work https://upanan82.github.io/random_quote_machine/
 
 © upanan82
