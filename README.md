@@ -1,4 +1,2 @@
-# random_quote_machine
-see work https://upanan82.github.io/random_quote_machine/
-
-© upanan82
+# random-quote-machine
+Demo &nbsp;-&nbsp; https://upanan82.github.io/random-quote-machine/
