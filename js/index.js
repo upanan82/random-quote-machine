@@ -9,7 +9,7 @@ function randomQuote() {
   $(".block").html("<img src='images/load.gif' width='25'>");
   function newQuote() {
     $.ajax({
-      url: 'https://rawgit.com/upanan82/random-quote-machine/master/quotes.json',
+      url: 'https://rawgit.com/upanan82/random_quote_machine/master/quotes.js',
 	  	type: 'GET',
 		  dataType: 'jsonp',
 		  success: function(json) {
